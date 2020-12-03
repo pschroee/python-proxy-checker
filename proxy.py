@@ -13,8 +13,8 @@ from colorama import Fore, Back, Style
 
 # Global variables
 #in_filename  = 'input/3.txt'
-in_directory = './input/filtered'
-out_filename = 'output/out_filtered2.txt'
+in_directory = './input/'
+out_filename = './output/filtered.txt'
 test_url = 'http://www.google.com/humans.txt'
 thread_number = 100
 timeout_value = 10
