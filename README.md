@@ -28,3 +28,6 @@ python-proxy-checker
 |-- output
     |-- out_filtered.txt
 ```
+
+## API Fake Names
+https://randomname.de/api/
