@@ -9,7 +9,7 @@ The input format is "ip:port" (e.g., "127.0.0.1:8080").
 So, to change the input directory and the output file, you have to alter the following lines:
 ```
 in_directory = './input/'
-out_filename = 'output/out_filtered.txt'
+out_filename = './output/filtered.txt'
 ```
 
 
